@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Practice
+Practices get better with time.
